@@ -98,7 +98,7 @@ This study demonstrates the potential of integrating **GIS-based MCDA**, **AHP w
 ---
 
 ## Authors
-- **[Your Name]** - Principal Researcher
+- **[Eteh Desmond]** - Principal Researcher
 - **[Collaborators/Contributors]**
 
 ---
@@ -119,8 +119,8 @@ Special thanks to the organizations and datasets that made this research possibl
 
 ## Contact
 For further inquiries, suggestions, or collaborations, please contact:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**:desmondeteh@gmail.com 
+- **LinkedIn**:https://github.com/eteh1   
 
 ---
 
