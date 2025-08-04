@@ -119,8 +119,8 @@ Special thanks to the organizations and datasets that made this research possibl
 
 ## Contact
 For further inquiries, suggestions, or collaborations, please contact:
-- **Email**:desmondeteh@gmail.com 
-- **LinkedIn**:https://github.com/eteh1   
+- **Email**:akajiakuflowz@gmail.com 
+- **LinkedIn**:https://github.com/Akajiaku11  
 
 ---
 
